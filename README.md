@@ -38,6 +38,6 @@ Designed an interactive Power BI dashboard featuring KPIs, filtering capabilitie
 
 ## Connect With Me
 
-LinkedIn: [[Your LinkedIn URL](https://www.linkedin.com/in/antonia-utz-56ab4037a/)]
+LinkedIn: [https://www.linkedin.com/in/antonia-utz-56ab4037a/]
 
 Email: [antonia.utz@web.de]
