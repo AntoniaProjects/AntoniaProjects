@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi, I'm Antonia 
 
-<!--
-**AntoniaProjects/AntoniaProjects** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Data Analyst with hands-on experience in data cleaning, statistical analysis, data visualization, and business intelligence.
 
-Here are some ideas to get you started:
+## Tools & Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* SQL
+* Excel
+* Power BI
+* SPSS
+* Data Visualization
+* Statistical Analysis
+
+## Featured Projects
+
+### SPSS Hierarchical Regression Analysis
+
+Performed a hierarchical regression analysis in SPSS to evaluate the incremental contribution of multiple predictor variables and interpret statistical significance.
+
+### SQL Layoffs Analysis
+
+Cleaned and explored real-world layoff data using SQL to identify trends across companies, industries, countries, and time periods.
+
+### Excel Bike Buyers Dashboard
+
+Built an interactive Excel dashboard using Pivot Tables, Charts, and Slicers to analyze customer purchasing behavior and demographic trends.
+
+### Power BI Business Dashboard
+
+Designed an interactive Power BI dashboard featuring KPIs, filtering capabilities, and visual insights to support data-driven decision-making.
+
+## Currently Learning
+
+* Python for Data Analytics
+* Pandas
+* Advanced SQL
+* Data Storytelling
+
+## Connect With Me
+
+LinkedIn: [[Your LinkedIn URL](https://www.linkedin.com/in/antonia-utz-56ab4037a/)]
+
+Email: [antonia.utz@web.de]
