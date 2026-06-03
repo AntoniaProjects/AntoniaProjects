@@ -16,6 +16,7 @@ Aspiring Data Analyst with hands-on experience in data cleaning, statistical ana
 ### SPSS Hierarchical Regression Analysis
 
 Performed a hierarchical regression analysis in SPSS to evaluate the incremental contribution of multiple predictor variables and interpret statistical significance.
+Repository: https://github.com/AntoniaProjects/hierarchical-regression-environmental-behavior
 
 ### SQL Layoffs Analysis
 
@@ -24,6 +25,7 @@ Cleaned and explored real-world layoff data using SQL to identify trends across 
 ### Excel Bike Buyers Dashboard
 
 Built an interactive Excel dashboard using Pivot Tables, Charts, and Slicers to analyze customer purchasing behavior and demographic trends.
+Repository: https://github.com/AntoniaProjects/excel-bike-buyers-dashboard
 
 ### Power BI Business Dashboard
 
