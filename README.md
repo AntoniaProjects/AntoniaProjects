@@ -19,9 +19,17 @@ Performed a hierarchical regression analysis in SPSS to evaluate the incremental
 
 Repository: https://github.com/AntoniaProjects/hierarchical-regression-environmental-behavior
 
+### Power BI Business Dashboard
+
+Designed an interactive Power BI dashboard featuring KPIs, filtering capabilities, and visual insights to support data-driven decision-making.
+
+Repository: https://github.com/AntoniaProjects/powerbi-business-dashboard
+
 ### SQL Layoffs Analysis
 
 Cleaned and explored real-world layoff data using SQL to identify trends across companies, industries, countries, and time periods.
+
+Repository: https://github.com/AntoniaProjects/sql-layoffs-analysis
 
 ### Excel Bike Buyers Dashboard
 
@@ -29,9 +37,6 @@ Built an interactive Excel dashboard using Pivot Tables, Charts, and Slicers to 
 
 Repository: https://github.com/AntoniaProjects/excel-bike-buyers-dashboard
 
-### Power BI Business Dashboard
-
-Designed an interactive Power BI dashboard featuring KPIs, filtering capabilities, and visual insights to support data-driven decision-making.
 
 ## Currently Learning
 
