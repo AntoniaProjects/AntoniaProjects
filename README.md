@@ -1,4 +1,4 @@
-# Hi, I'm Antonia 👋
+# Hi, I'm Antonia 
 
 Aspiring Data Analyst with hands-on experience in data cleaning, statistical analysis, data visualization, and business intelligence.
 
