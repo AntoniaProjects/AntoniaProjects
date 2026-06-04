@@ -19,7 +19,6 @@ Analyzed survey data from 628 data professionals to uncover trends in salaries, 
 
 Repository: https://github.com/AntoniaProjects/powerbi-business-dashboard
 
----
 
 ### SQL Layoffs Analysis
 
@@ -27,15 +26,13 @@ Cleaned and explored global layoff data using SQL to identify trends across comp
 
 Repository: https://github.com/AntoniaProjects/sql-layoffs-analysis
 
----
 
 ### Excel Anxiety Analysis Dashboard
 
 Built an interactive Excel dashboard using a dataset of 11,000 observations to analyze relationships between anxiety levels, stress, sleep duration, family history, and lifestyle factors.
 
-Repository: https://github.com/AntoniaProjects/excel-anxiety-analysis-dashboard
+Repository: [https://github.com/AntoniaProjects/excel-anxiety-analysis-dashboard](https://github.com/AntoniaProjects/exel-anxiety-analysis-dashboard)
 
----
 
 ### SPSS Hierarchical Regression Analysis
 
@@ -43,7 +40,6 @@ Conducted a hierarchical regression analysis in SPSS to examine factors influenc
 
 Repository: https://github.com/AntoniaProjects/hierarchical-regression-environmental-behavior
 
----
 
 ### Excel Bike Buyers Dashboard
 
